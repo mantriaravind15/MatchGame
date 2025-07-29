@@ -1,0 +1,14 @@
+.tab-item-button {
+  background-color: transparent;
+  border-width: 0px;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+
+.underlinetext {
+  text-decoration: underline;
+  color: #fec653;
+  font-weight: bold;
+}
